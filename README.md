@@ -73,7 +73,7 @@
 ### **1️⃣ AI Audio/Text Summarizer & Sentiment Analyzer**
 **Tech:** Next.js 14, Tailwind, Clerk, Node.js, Gemini AI  
  
-👉 **Code:** [GitHub](https://github.com/Magraj71/MeetSum)
+👉 **Code:** https://github.com/Magraj71/MeetSum
 
 - Summarizes text/audio, extracts strengths & weaknesses, performs sentiment analysis  
 - Integrated **Stream Audio SDK** for recording + transcription  
