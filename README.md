@@ -98,6 +98,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge" />
@@ -105,10 +106,12 @@
 
 ### 🤖 **AI & Machine Learning**
 <p align="center">
+  <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=ai&logoColor=white" />
   <img src="https://img.shields.io/badge/LLM_Applications-00B4D8?style=for-the-badge&logo=ai&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/NLP-0088CC?style=for-the-badge&logo=natural-language-processing&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=ai&logoColor=white" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=for-the-badge&logo=prompt&logoColor=white" />
 </p>
 
@@ -116,6 +119,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-00B4D8?style=for-the-badge&logo=ai&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
@@ -178,17 +182,32 @@
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <h3>💬 OrbitChat – Real-Time Messaging</h3>
+        <h3>🧠 OrbitChat – Full-Stack AI Agent Platform</h3>
         <a href="https://github.com/Magraj71/OrbitChat">
           <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
         <br><br>
-        <p><i>Low-latency multi-room chat system with end-to-end event handling</i></p>
-        <p><b>Tech:</b> React, Node.js, Express, WebSockets, MongoDB, JWT</p>
+        <p><i>Full-stack AI platform with multi-agent architecture, RAG pipeline, and real-time messaging</i></p>
+        <p><b>Tech:</b> LangGraph, FastAPI, ChromaDB, Next.js, OpenAI API, Python</p>
+        <table>
+          <tr>
+            <td>🤖 <b>Multi-Agent</b> Architecture</td>
+            <td>🔍 <b>RAG</b> Pipeline with ChromaDB</td>
+          </tr>
+          <tr>
+            <td>⚡ <b>Async</b> FastAPI Backend</td>
+            <td>📡 <b>Real-Time</b> Messaging</td>
+          </tr>
+          <tr>
+            <td>🧩 <b>Modular</b> Agent Design</td>
+            <td>🚀 <b>Scalable</b> REST APIs</td>
+          </tr>
+        </table>
         <ul align="left">
-          <li>⚡ Persistent WebSocket connections</li>
-          <li>🔐 Secure JWT session management</li>
-          <li>🎯 Multi-room synchronization</li>
+          <li>🧠 Built modular multi-agent system using LangGraph with integrated LLM APIs</li>
+          <li>📚 Implemented RAG pipeline with ChromaDB for semantic vector search and context retrieval</li>
+          <li>⚡ Developed asynchronous FastAPI backend with scalable REST APIs for AI agents</li>
+          <li>💬 Enabled real-time messaging and seamless backend-frontend integration</li>
         </ul>
       </td>
       <td width="50%" valign="top">
