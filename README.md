@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Magraj+Jakhar;AI+%26+Full-Stack+Engineer;Building+Scalable+%26+Intelligent+Systems;1%2C050%2B+DSA+Problems+Solved" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Magraj+Jakhar;Full-Stack+%26+GenAI+Developer;Building+Scalable+%26+Intelligent+Systems;1%2C050%2B+DSA+Problems+Solved" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -59,9 +59,9 @@
         <br>
         <h3>🌟 Core Expertise</h3>
         <p>🚀 Full-Stack Development</p>
-        <p>🤖 AI & LLM Integration</p>
-        <p>📊 System Architecture</p>
-        <p>⚡ Real-Time Applications</p>
+        <p>🤖 Generative AI & LLM Integration</p>
+        <p>📊 System Architecture & Real-Time Applications</p>
+        <p>⚡ Agentic AI & RAG Pipelines</p>
       </td>
     </tr>
   </table>
@@ -104,22 +104,24 @@
   <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge" />
 </p>
 
-### 🤖 **AI & Machine Learning**
+### 🤖 **Generative AI & Agentic Systems**
 <p align="center">
   <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=ai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM_Applications-00B4D8?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-FF6B6B?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multi_Agent_Systems-00B4D8?style=for-the-badge&logo=ai&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-0088CC?style=for-the-badge&logo=natural-language-processing&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_Orchestration-FF6B6B?style=for-the-badge&logo=ai&logoColor=white" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=for-the-badge&logo=prompt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradio-FF6B6B?style=for-the-badge&logo=gradio&logoColor=white" />
 </p>
 
-### 🗄️ **Databases**
+### 🗄️ **Databases & Vector Stores**
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/ChromaDB-00B4D8?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
@@ -130,6 +132,8 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-1ABC9C?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
 </p>
 
 </div>
@@ -142,8 +146,68 @@
   <table>
     <tr>
       <td width="50%" valign="top">
+        <h3>🧠 OrbitChat – Full-Stack AI Agent Platform</h3>
+        <a href="https://github.com/Magraj71/OrbitChat-main">
+          <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br><br>
+        <p><i>Production-ready AI agent chat platform with multi-agent orchestration, RAG pipeline, and real-time messaging</i></p>
+        <p><b>Tech:</b> LangGraph, FastAPI, ChromaDB, Next.js, OpenAI API, Python, SQLite</p>
+        <table>
+          <tr>
+            <td>🤖 <b>Multi-Agent</b> Architecture</td>
+            <td>🔍 <b>RAG</b> Pipeline with ChromaDB</td>
+          </tr>
+          <tr>
+            <td>⚡ <b>Async</b> FastAPI Backend</td>
+            <td>📡 <b>Real-Time</b> Streaming via SSE</td>
+          </tr>
+          <tr>
+            <td>🧩 <b>Modular</b> Agent Design</td>
+            <td>🚀 <b>Scalable</b> REST APIs</td>
+          </tr>
+        </table>
+        <ul align="left">
+          <li>🧠 Built modular multi-agent system using LangGraph with integrated LLM APIs[reference:0]</li>
+          <li>📚 Implemented RAG pipeline with ChromaDB for semantic vector search and context retrieval[reference:1]</li>
+          <li>⚡ Developed asynchronous FastAPI backend with scalable REST APIs for AI agents[reference:2]</li>
+          <li>💬 Enabled real-time streaming responses via SSE and seamless frontend integration[reference:3]</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top">
+        <h3>📚 ResearchPilot – Agentic Research Assistant</h3>
+        <a href="https://github.com/Magraj71/researchpilot">
+          <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br><br>
+        <p><i>Production-grade generative AI research assistant with multi-step agentic workflows, RAG, and document synthesis</i></p>
+        <p><b>Tech:</b> LangGraph, FastAPI, Gradio, ChromaDB, SQLAlchemy, Docker, OpenAI API</p>
+        <table>
+          <tr>
+            <td>📄 <b>Document</b> Ingestion & Chunking</td>
+            <td>🔍 <b>Semantic</b> Retrieval</td>
+          </tr>
+          <tr>
+            <td>🧠 <b>Planning → Retrieval → Analysis → Report</b> Workflow</td>
+            <td>💬 <b>Conversational</b> RAG with Session Memory</td>
+          </tr>
+          <tr>
+            <td>🐳 <b>Dockerized</b> for One-Click Deployment</td>
+            <td>📊 <b>Gradio</b> UI + FastAPI Backend</td>
+          </tr>
+        </table>
+        <ul align="left">
+          <li>🧠 Built multi-step agentic workflow: planning → retrieval → analysis → report writing with conditional routing[reference:4]</li>
+          <li>📚 Implemented RAG pipeline with ChromaDB for semantic vector search and context retrieval[reference:5]</li>
+          <li>⚡ Developed FastAPI backend with SQLAlchemy for metadata persistence[reference:6]</li>
+          <li>📊 Created Gradio UI for seamless user interaction[reference:7]</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
         <h3>🎓 Smart Exam Result Management System</h3>
-        <a href="https://github.com/Magraj71/Smart-Exam-Result-Management-System">
+        <a href="https://github.com/Magraj71/Smart-exam-frontend">
           <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
         <br><br>
@@ -162,7 +226,7 @@
       </td>
       <td width="50%" valign="top">
         <h3>🎙️ Meeting Summarizer & Sentiment Analyzer</h3>
-        <a href="https://github.com/Magraj71/MeetSum">
+        <a href="https://github.com/Magraj71/MeetingSummarizer-Sentiment">
           <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
         <br><br>
@@ -182,35 +246,6 @@
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <h3>🧠 OrbitChat – Full-Stack AI Agent Platform</h3>
-        <a href="https://github.com/Magraj71/OrbitChat">
-          <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <br><br>
-        <p><i>Full-stack AI platform with multi-agent architecture, RAG pipeline, and real-time messaging</i></p>
-        <p><b>Tech:</b> LangGraph, FastAPI, ChromaDB, Next.js, OpenAI API, Python</p>
-        <table>
-          <tr>
-            <td>🤖 <b>Multi-Agent</b> Architecture</td>
-            <td>🔍 <b>RAG</b> Pipeline with ChromaDB</td>
-          </tr>
-          <tr>
-            <td>⚡ <b>Async</b> FastAPI Backend</td>
-            <td>📡 <b>Real-Time</b> Messaging</td>
-          </tr>
-          <tr>
-            <td>🧩 <b>Modular</b> Agent Design</td>
-            <td>🚀 <b>Scalable</b> REST APIs</td>
-          </tr>
-        </table>
-        <ul align="left">
-          <li>🧠 Built modular multi-agent system using LangGraph with integrated LLM APIs</li>
-          <li>📚 Implemented RAG pipeline with ChromaDB for semantic vector search and context retrieval</li>
-          <li>⚡ Developed asynchronous FastAPI backend with scalable REST APIs for AI agents</li>
-          <li>💬 Enabled real-time messaging and seamless backend-frontend integration</li>
-        </ul>
-      </td>
-      <td width="50%" valign="top">
         <h3>🛒 Ramdev Kirana E-Commerce</h3>
         <a href="https://github.com/Magraj71/Ramdev-Kirana">
           <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -228,6 +263,35 @@
             <td>📱 Fully responsive</td>
           </tr>
         </table>
+      </td>
+      <td width="50%" valign="top">
+        <h3>🏢 Multi-Tenant CDP & Attribution Engine</h3>
+        <a href="https://github.com/Magraj71/Multi-Tenant-CDP-Attribution-Engine">
+          <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br><br>
+        <p><i>Production-grade, cloud-native Customer Data Platform engineered for millions of real-time events per day</i></p>
+        <p><b>Tech:</b> Kafka, Spark, Delta Lake, Airflow, PostgreSQL, Docker, Prometheus, Grafana</p>
+        <table>
+          <tr>
+            <td>📊 <b>Real-time</b> event ingestion</td>
+            <td>🔍 <b>Identity</b> Resolution</td>
+          </tr>
+          <tr>
+            <td>📈 <b>Multi-Touch</b> Attribution</td>
+            <td>🛡️ <b>GDPR</b> Erasure Framework</td>
+          </tr>
+          <tr>
+            <td>📉 <b>Prometheus + Grafana</b> Monitoring</td>
+            <td>✅ <b>95%+</b> data quality validation</td>
+          </tr>
+        </table>
+        <ul align="left">
+          <li>📊 Built real-time event ingestion pipeline with Kafka and Spark Streaming[reference:8]</li>
+          <li>🔍 Implemented Identity Resolution Engine for unified customer view across 8+ touchpoints[reference:9]</li>
+          <li>📈 Designed Multi-Touch Attribution for revenue attribution to each marketing channel[reference:10]</li>
+          <li>🛡️ Built Automated Erasure Framework for GDPR/CCPA compliance[reference:11]</li>
+        </ul>
       </td>
     </tr>
   </table>
@@ -354,7 +418,7 @@
   
   <br />
   
-  <b>🚀 Open to Full-Stack Development Roles | 🤖 AI/ML Collaborations | ⚡ Real-Time Applications</b>
+  <b>🚀 Open to Full-Stack Development Roles | 🤖 AI/ML & GenAI Collaborations | ⚡ Real-Time Applications</b>
   
   <br />
   
